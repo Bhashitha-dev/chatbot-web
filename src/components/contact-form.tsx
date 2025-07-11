@@ -104,7 +104,7 @@ export function ContactForm() {
         </div>
         <div className="mt-6 space-y-2 text-muted-foreground">
            <p><strong>Prolab IT Solutions HQ</strong></p>
-           <p>123 Tech Street, Silicon Valley, CA 94000</p>
+           <p> Pitipana, Thalagala road, Homagama. </p>
            <p>Email: contact@prolab.com</p>
            <p>Phone: +94 76 999 4008</p>
         </div>

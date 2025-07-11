@@ -85,6 +85,29 @@ export default function Home() {
         </div>
       </section>
 
+ <section className="py-16 sm:py-24">
+        <div className="container mx-auto px-4 md:px-6">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl font-headline font-bold tracking-tight sm:text-4xl">
+              See Our Craftsmanship in Action
+            </h2>
+            <p className="mt-4 max-w-2xl mx-auto text-lg text-muted-foreground">
+              Watch how we meticulously build our high-performance machines with precision, care, and a passion for perfection.
+            </p>
+          </div>
+          <div className="relative max-w-4xl mx-auto aspect-video">
+            <iframe
+              className="w-full h-full rounded-lg shadow-lg"
+              src="https://www.youtube.com/embed/m5IHV_jNnU0"
+              title="How to Build a Gaming PC: A Step-by-Step Guide"
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            ></iframe>
+          </div>
+        </div>
+      </section>
+      
       <section className="bg-card p-8 rounded-lg shadow-md">
         <h2 className="text-3xl font-bold text-center font-headline mb-8">
           Our Services

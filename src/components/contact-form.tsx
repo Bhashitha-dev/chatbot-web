@@ -93,7 +93,7 @@ export function ContactForm() {
         <h3 className="text-2xl font-headline font-bold mb-4">Our Location</h3>
         <div className="aspect-video w-full bg-muted rounded-lg overflow-hidden">
           <iframe 
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.219525208948!2d-73.98824488459392!3d40.75797497932693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c645107d%3A0x2fe577651a8d0859!2sTimes%20Square!5e0!3m2!1sen!2sus!4v1684497893111!5m2!1sen!2sus" 
+            src="https://www.google.com/maps/place/NSBM+Green+University/@6.8213291,80.038998,17z/data=!3m1!4b1!4m6!3m5!1s0x3ae2523b05555555:0x546c34cd99f6f488!8m2!3d6.8213291!4d80.0415729!16s%2Fg%2F11h1p1w53r?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOC4wIKXMDSoASAFQAw%3D%3D" 
             width="100%" 
             height="100%" 
             style={{border:0}} 
@@ -106,7 +106,7 @@ export function ContactForm() {
            <p><strong>Prolab IT Solutions HQ</strong></p>
            <p>123 Tech Street, Silicon Valley, CA 94000</p>
            <p>Email: contact@prolab.com</p>
-           <p>Phone: (123) 456-7890</p>
+           <p>Phone: +94 76 999 4008</p>
         </div>
       </div>
     </div>
